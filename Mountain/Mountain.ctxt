@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=array\ stop
+comment0.target=boolean\ isIncreasing(int[],\ int)
+comment0.text=\ @param\ array\ an\ array\ of\ positive\ integer\ vales\r\n\ \ @param\ stop\ the\ last\ index\ to\ check;\r\n\ \ @return\ true\ if\ for\ each\ j\ such\ that\ 0\ <\=\ j\ <\ stop,\ array[j]\ <\ arrray[j+1]\r\n\ \ \ \ \ \ \ \ \ \ \ false\ otehrwise\r\n
+comment1.params=array\ start
+comment1.target=boolean\ isDecreasing(int[],\ int)
+comment1.text=\ @param\ array\ an\ array\ of\ positive\ integer\ vales\r\n\ \ @param\ start\ the\ first\ index\ to\ check;\r\n\ \ @return\ true\ if\ for\ each\ j\ such\ that\ start\ <\=\ j\ <\ array.length\ -\ 1,\ array[j]\ <\ arrray[j+1]\r\n\ \ \ \ \ \ \ \ \ \ \ false\ otehrwise\r\n
+comment2.params=array
+comment2.target=int\ getPeakIndex(int[])
+comment3.params=array
+comment3.target=boolean\ isMountain(int[])
+numComments=4

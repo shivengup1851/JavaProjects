@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Software()
+comment1.params=version
+comment1.target=void\ setVersion(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getVersion()
+comment3.params=
+comment3.target=java.lang.String\ getDisplayText()
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=numerator\ denominator
+comment0.target=RationalNumber(int,\ int)
+comment0.text=\r\n\ Initializes\ the\ instance\ variables\r\n
+comment1.params=
+comment1.target=RationalNumber()
+comment1.text=\r\n\ Sets\ the\ numerator\ to\ 0\ and\ the\ denominator\ to\ 1\r\n
+comment2.params=
+comment2.target=int\ getNumerator()
+comment2.text=\r\n\ Gets\ the\ numerator\ value\r\n\ @return\ the\ value\ of\ the\ numerator\r\n
+comment3.params=
+comment3.target=int\ getDenominator()
+comment3.text=\r\n\ Gets\ the\ denominator\ value\r\n\ @return\ the\ value\ of\ the\ denominator\r\n
+comment4.params=topValue
+comment4.target=void\ setNumerator(int)
+comment4.text=\r\n\ Sets\ the\ numerator\ to\ the\ value\ given\r\n\ @param\ numerator\ value\ \r\n
+comment5.params=bottomValue
+comment5.target=void\ setDenominator(int)
+comment5.text=\r\n\ Sets\ the\ denominator\ to\ the\ value\ given\r\n\ @param\ denominator\ value\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\nChanges\ the\ form\ of\ the\ return\ value\ to\ a\ String\r\n@return\ numerator\ divided\ by\ denominator\ in\ a\ String\ form\r\n
+numComments=7

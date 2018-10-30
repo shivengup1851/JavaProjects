@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=double\ getMean(int[])
+comment1.params=array
+comment1.target=int\ getMedian(int[])
+comment2.params=array
+comment2.target=int\ getMode(int[])
+comment3.params=array
+comment3.target=int\ getRange(int[])
+numComments=4

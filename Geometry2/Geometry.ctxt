@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=double\ sphereVolume(double)
+comment0.text=\r\n\ Computes\ the\ volume\ of\ a\ sphere\r\n\ @param\ radius\ the\ radius\ of\ the\ sphere\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @return\ the\ volume\ of\ the\ sphere\r\n\ (Postcondition\:\ The\ volume\ of\ the\ sphere\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment1.params=radius
+comment1.target=double\ sphereSurface(double)
+comment1.text=\r\n\ Computes\ the\ surface\ area\ of\ a\ sphere\r\n\ @param\ radius\ the\ radius\ of\ the\ sphere\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @return\ the\ surface\ area\ of\ the\ sphere\r\n\ (Postcondition\:\ The\ surface\ area\ of\ the\ sphere\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment2.params=radius\ height
+comment2.target=double\ cylinderVolume(double,\ double)
+comment2.text=\r\n\ Computes\ the\ volume\ of\ a\ cylinder\r\n\ @param\ radius\ the\ radius\ of\ the\ cylinder\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @param\ height\ the\ height\ of\ the\ cylinder\r\n\ (Precondition\:\ height\ >\=\ 0)\r\n\ @return\ the\ volume\ of\ the\ cylinder\r\n\ (Postcondition\:\ The\ volume\ of\ the\ cylinder\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment3.params=radius\ height
+comment3.target=double\ cylinderSurface(double,\ double)
+comment3.text=\r\n\ Computes\ the\ surface\ area\ of\ a\ cylinder\r\n\ @param\ radius\ the\ radius\ of\ the\ cylinder\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @param\ height\ the\ height\ of\ the\ cylinder\r\n\ (Precondition\:\ height\ >\=\ 0)\r\n\ @return\ the\ surface\ area\ of\ the\ cylinder\r\n\ (Postcondition\:\ The\ surface\ area\ of\ the\ cylinder\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment4.params=radius\ height
+comment4.target=double\ coneVolume(double,\ double)
+comment4.text=\r\n\ Computes\ the\ volume\ of\ a\ cone\r\n\ @param\ radius\ the\ radius\ of\ the\ cone\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @param\ height\ the\ height\ of\ the\ cone\r\n\ (Precondition\:\ height\ >\=\ 0)\r\n\ @return\ the\ volume\ of\ the\ cone\r\n\ (Postcondition\:\ The\ volume\ of\ the\ cone\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment5.params=radius\ height
+comment5.target=double\ coneSurface(double,\ double)
+comment5.text=\r\n\ Computes\ the\ surface\ area\ of\ a\ cone\r\n\ @param\ radius\ the\ radius\ of\ the\ cone\r\n\ (Precondition\:\ radius\ >\=\ 0)\r\n\ @param\ height\ the\ height\ of\ the\ cone\r\n\ (Precondition\:\ height\ >\=\ 0)\r\n\ @return\ the\ surface\ area\ of\ the\ cone\r\n\ (Postcondition\:\ The\ surface\ area\ of\ the\ cone\ is\ greater\ than\ or\ equal\ to\ 0)\r\n
+comment6.params=point1\ point2
+comment6.target=double\ getSlope(java.awt.geom.Point2D.Double,\ java.awt.geom.Point2D.Double)
+comment6.text=\r\n\ Computes\ the\ slope\ of\ a\ line\ given\ two\ points\r\n\ @param\ point1\ the\ first\ endpoint\ of\ the\ line\r\n\ @param\ point2\ the\ second\ endpoint\ of\ the\ line\r\n\ (Precondition\:\ The\ points\ cannot\ have\ the\ same\ x\ values)\r\n\ @return\ the\ slope\ of\ the\ line\r\n
+comment7.params=point1\ point2
+comment7.target=double\ getAngle(java.awt.geom.Point2D.Double,\ java.awt.geom.Point2D.Double)
+comment7.text=\r\n\ Computes\ the\ angle\ of\ a\ line\ given\ two\ points\ relative\ to\ the\ x-axis\r\n\ @param\ point1\ the\ first\ endpoint\ of\ the\ line\r\n\ @param\ point2\ the\ second\ endpoint\ of\ the\ line\r\n\ (Precondition\:\ The\ points\ cannot\ have\ the\ same\ x\ values)\r\n\ @return\ the\ angle\ between\ the\ line\ and\ the\ x-axis\r\n
+comment8.params=x
+comment8.target=double\ getEllipseArea(java.awt.geom.Ellipse2D.Double)
+comment8.text=\r\n\ Computes\ the\ area\ of\ an\ ellipse\r\n\ @param\ x\ the\ ellipse\ object\r\n\ (Precondition\:\ the\ width\ and\ height\ of\ the\ ellipse\ must\ be\ greater\ than\ 0)\r\n\ @return\ the\ area\ of\ the\ ellipse\r\n\ (Postcondition\:\ the\ area\ must\ be\ greater\ than\ 0)\r\n
+comment9.params=x
+comment9.target=double\ getRectangleArea(java.awt.Rectangle)
+comment9.text=\r\n\ Computes\ the\ area\ of\ a\ rectangle\r\n\ @param\ x\ the\ rectangle\ object\r\n\ (Precondition\:\ the\ width\ and\ height\ of\ the\ rectangle\ must\ be\ greater\ than\ 0)\r\n\ @return\ the\ area\ of\ the\ rectangle\r\n\ (Postcondition\:\ the\ area\ must\ be\ greater\ than\ 0)\r\n
+numComments=10

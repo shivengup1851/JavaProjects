@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InsufficientBalanceException()
+comment1.params=message
+comment1.target=InsufficientBalanceException(java.lang.String)
+numComments=2

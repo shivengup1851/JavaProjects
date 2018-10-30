@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=h\ m
+comment0.target=MilitaryTime(int,\ int)
+comment0.text=\r\n\ Constructor\ to\ initialize\ instance\ variables\r\n\ @param\ h\ hours\ in\ military\ time\r\n\ @param\ m\ minutes\r\n
+comment1.params=hr\ min
+comment1.target=java.lang.String\ compareWith(int,\ int)
+comment1.text=\r\n\ Compares\ two\ times\ and\ returns\ an\ output\ based\ on\ a\ certain\ situation\r\n\ @param\ hr\ hours\r\n\ @param\ min\ minutes\r\n
+numComments=2

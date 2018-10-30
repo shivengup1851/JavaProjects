@@ -1,0 +1,36 @@
+import java.util.Scanner;
+/**
+ * StringPrinter prints a string backwards
+ * 
+ * @author (Shiven Gupta);
+ */
+public class StringPrinter
+{
+    public static void main (String args[]) {
+        //Created scanner allowing for user input
+        Scanner scan = new Scanner (System.in);
+        System.out.print("Enter a string: ");
+        String x = scan.nextLine();
+        //created integer which holds length of string
+        int len = x.length();
+        //created the output string which will hold the output
+        String output = "";
+        //initialized i to 0
+        int i = 0;
+        for (i = len - 1; i >= 0; i--) {
+            
+            output += x.charAt(i);
+        
+        }
+        
+        if (x.equals(output)) {
+        	
+        	System.out.println("USE A VALID WORD!");
+        }
+        
+        System.out.println(output);
+        }
+    }
+
+    
+         

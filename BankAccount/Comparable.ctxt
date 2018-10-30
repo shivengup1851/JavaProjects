@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=bank
+comment0.target=java.lang.String\ compareTo(BankAccount)
+comment0.text=\r\n\ Compares\ the\ balances\ of\ bank\ accounts\r\n\ \r\n\ @param\ bank\ a\ bank\ account\r\n\ (Postcondition\:\ how\ the\ first\ bank\ account\ compares\ to\ the\ second.)\r\n
+numComments=1

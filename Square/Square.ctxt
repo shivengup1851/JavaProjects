@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=centerX\ centerY\ sideLength
+comment0.target=Square(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ to\ initialize\ instance\ variables\r\n\ @param\ centerX\ the\ x\ value\ of\ the\ center\r\n\ @param\ centerY\ the\ y\ value\ of\ the\ center\r\n\ @param\ sideLength\ the\ side\ length\ of\ the\ square\r\n\ (Precondition\:\ sideLength\ >\ 0)\r\n
+comment1.params=
+comment1.target=int\ getArea()
+comment1.text=\r\n\ Computes\ the\ area\ of\ the\ square\r\n\ @return\ the\ area\ of\ the\ square\r\n
+numComments=2

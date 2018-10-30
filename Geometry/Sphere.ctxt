@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Sphere(double)
+comment0.text=\r\n\ Initializes\ the\ instance\ variables\r\n\ @param\ r\ the\ radius\ of\ the\ sphere\r\n\ (Precondition\:\ r\ >\=\ 0)\r\n
+comment1.params=
+comment1.target=double\ getVolume()
+comment1.text=\r\n\ Computes\ the\ volume\ of\ the\ sphere\r\n\ @return\ volume\ of\ the\ sphere\r\n\ (Postcondition\:\ The\ volume\ is\ greater\ than\ 0)\r\n
+comment2.params=
+comment2.target=double\ getSurfaceArea()
+comment2.text=\r\n\ Computes\ the\ surface\ area\ of\ the\ sphere\r\n\ @return\ surface\ area\ of\ the\ sphere\r\n\ (Postcondition\:\ The\ surface\ area\ is\ greater\ than\ 0)\r\n
+numComments=3

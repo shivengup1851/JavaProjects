@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=anArray
+comment0.target=SelectionSorter(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ selection\ sorter.\r\n\ \ \ \ \ \ @param\ anArray\ the\ array\ to\ sort\r\n
+comment1.params=
+comment1.target=void\ sort()
+comment1.text=\r\n\ \ \ \ \ \ Sorts\ the\ array\ managed\ by\ this\ selection\ sorter.\r\n
+comment2.params=from
+comment2.target=int\ minimumPosition(int)
+comment2.text=\r\n\ \ \ \ \ \ Finds\ the\ smallest\ element\ in\ a\ tail\ range\ of\ the\ array.\r\n\ \ \ \ \ \ @param\ from\ the\ first\ position\ in\ a\ to\ compare\r\n\ \ \ \ \ \ @return\ the\ position\ of\ the\ smallest\ element\ in\ the\r\n\ \ \ \ \ \ range\ a[from]\ .\ .\ .\ a[a.length\ -\ 1]\r\n
+comment3.params=i\ j
+comment3.target=void\ swap(int,\ int)
+comment3.text=\r\n\ \ \ \ \ \ Swaps\ two\ entries\ of\ the\ array.\r\n\ \ \ \ \ \ @param\ i\ the\ first\ position\ to\ swap\r\n\ \ \ \ \ \ @param\ j\ the\ second\ position\ to\ swap\r\n
+numComments=4

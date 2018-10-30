@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=coneHeight\ coneRadius
+comment0.target=IceCreamCone(double,\ double)
+comment0.text=\r\n\ Initializes\ my\ instance\ variables\r\n\ @param\ coneHeight\ the\ height\ of\ the\ cone\r\n\ @param\ coneRadius\ the\ radius\ of\ the\ cone\r\n
+comment1.params=
+comment1.target=double\ getHeight()
+comment1.text=\r\n\ Gets\ the\ height\ of\ the\ cone\r\n\ @return\ the\ height\ of\ the\ cone\r\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\r\n\ Gets\ the\ radius\ of\ the\ cone\r\n\ @return\ the\ radius\ of\ the\ cone\r\n
+comment3.params=
+comment3.target=double\ getSurfaceArea()
+comment3.text=\r\n\ Gets\ the\ surface\ area\ of\ the\ cone\r\n\ @return\ the\ surface\ area\ of\ the\ cone\r\n
+comment4.params=
+comment4.target=double\ getVolume()
+comment4.text=\r\nGets\ the\ volume\ of\ the\ cone\r\n@return\ the\ volume\ of\ the\ cone\r\n
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=MultiDArray(double[][])
+comment0.text=\r\n\ MultiDArray\ initializes\ the\ 2D\ array\ object\r\n\ @param\ array\ aids\ in\ initializing\ the\ 2D\ array\ object\r\n
+comment1.params=startRow\ endRow\ startColumn\ endColumn
+comment1.target=double\ getAverage(int,\ int,\ int,\ int)
+comment1.text=\r\n\ getAverage\ computes\ the\ average\ of\ values\ in\ a\ 2D\ array\ based\ on\ the\ bounds\ provided\r\n\ @param\ startRow\ index\ of\ the\ rows\ of\ the\ 2D\ array\r\n\ @param\ endRow\ of\ the\ rows\ of\ the\ 2D\ array\r\n\ @param\ startColumn\ index\ of\ the\ columns\ of\ the\ 2D\ array\r\n\ @param\ endColumn\ end\ of\ the\ columns\ of\ the\ 2D\ array\r\n
+numComments=2

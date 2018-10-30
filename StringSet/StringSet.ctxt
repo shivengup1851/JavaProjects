@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=str1\ str2\ str3
+comment0.target=StringSet(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ string\ set\ that\ processes\ three\ strings.\r\n\ \ \ \ \ \ @param\ str1\ the\ first\ string\ to\ sort\r\n\ \ \ \ \ \ @param\ str2\ the\ second\ string\ to\ sort\r\n\ \ \ \ \ \ @param\ str3\ the\ third\ string\ to\ sort\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSmallest()
+comment1.text=\r\n\ \ \ \ \ \ Gets\ the\ smallest\ string\ in\ the\ string\ set.\r\n\ \ \ \ \ \ @return\ smallest\ the\ smallest\ of\ three\ strings\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLargest()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ largest\ string\ in\ the\ string\ set.\r\n\ \ \ \ \ \ @return\ largest\ the\ largest\ of\ three\ strings\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMiddle()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ middle\ string\ in\ the\ string\ set.\r\n\ \ \ \ \ \ @return\ middle\ the\ middle\ string\ of\ three\ strings\r\n
+numComments=4

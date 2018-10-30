@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=int\ sumOfDigits(int)
+comment0.text=\r\n\ Computes\ the\ sum\ of\ all\ of\ the\ digits\ in\ an\ integer\ recursively\r\n\ @param\ num\ an\ integer\r\n\ (Precondition\:\ num\ >\=\ 0)\r\n\ @return\ the\ sum\ of\ the\ digits\ in\ an\ integer\r\n
+comment1.params=base\ exp
+comment1.target=int\ baseExp(int,\ int)
+comment1.text=\r\n\ Exponentiates\ an\ integer\r\n\ @param\ base\ the\ integer\ which\ is\ exponentiated\r\n\ (Precondition\:\ base\ >\=\ 0)\r\n\ @param\ exp\ the\ exponent\r\n\ (Precondition\:\ exp\ >\=\ 0)\r\n\ @return\ the\ integer\ exponentiated\r\n
+comment2.params=array\ arrayLength
+comment2.target=int\ findMinimum(int[],\ int)
+comment2.text=\r\n\ Finds\ the\ minimum\ integer\ in\ an\ array\r\n\ @param\ array\ an\ array\ of\ integers\r\n\ @param\ arrayLength\ the\ length\ of\ the\ array\r\n\ (Precondition\:\ arrayLength\ >\ 0)\r\n\ @return\ the\ minimum\ value\ of\ the\ array\r\n
+comment3.params=num\ occur
+comment3.target=int\ cntDig(int,\ int)
+comment3.text=\r\n\ Finds\ how\ many\ times\ a\ single\ integer\ was\ used\ in\ a\ bigger\ integer\r\n\ @param\ num\ a\ big\ integer\r\n\ (Precondition\:\ num\ >\ 0)\r\n\ @param\ occur\ the\ small\ integer\ that\ is\ being\ looked\ for\r\n\ (Precondition\:\ occur\ >\ 0)\r\n\ @return\ the\ amount\ that\ the\ smaller\ integer\ was\ used\ in\ the\ bigger\ integer\r\n
+comment4.params=s
+comment4.target=java.lang.String\ splitPair(java.lang.String)
+comment4.text=\r\n\ Splits\ a\ string\ into\ parts\ if\ letters\ are\ repeated\ consecutively\r\n\ @param\ s\ the\ string\r\n\ (Precondition\:\ s.length()\ >\ 0)\r\n\ @return\ the\ split\ string\r\n
+comment5.params=array\ num\ index
+comment5.target=int\ findInt(int[],\ int,\ int)
+comment5.text=\r\n\ Finds\ how\ many\ times\ an\ integer\ is\ used\ in\ an\ array\ given\ a\ starting\ index\r\n\ @param\ array\ the\ array\r\n\ (Precondition\:\ array.length\ >\=\ 0)\r\n\ @param\ num\ the\ number\ being\ searched\ for\r\n\ (Precondition\:\ num\ >\=\ 0)\r\n\ @param\ index\ the\ starting\ index\ of\ the\ array\r\n\ (Precondition\:\ index\ >\=\ 0)\r\n\ @return\ the\ number\ of\ times\ a\ number\ was\ repeated\ in\ an\ array\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

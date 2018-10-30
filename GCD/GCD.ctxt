@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number1\ number2
+comment0.target=GCD(int,\ int)
+comment0.text=\r\n\ Constructor\ to\ initialize\ the\ instance\ variables\r\n\ @param\ number1\ the\ first\ number\r\n\ @param\ number2\ the\ second\ number\r\n
+comment1.params=
+comment1.target=int\ findGCD()
+comment1.text=\r\n\ Finds\ the\ greatest\ common\ divisor\ amongst\ the\ two\ numbers\ provided\r\n\ @return\ the\ greatest\ common\ divisor\r\n
+numComments=2

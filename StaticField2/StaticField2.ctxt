@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StaticField2()
+comment1.params=gradeBeforeFinal\ finalExamination
+comment1.target=StaticField2(int,\ int)
+comment2.params=
+comment2.target=double\ getGrade()
+numComments=3

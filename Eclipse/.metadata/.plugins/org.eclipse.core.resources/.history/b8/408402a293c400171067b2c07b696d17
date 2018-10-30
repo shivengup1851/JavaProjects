@@ -1,0 +1,24 @@
+import java.util.Scanner;
+/**
+ * Write a description of class StringPrinter here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class StringPrinter
+{
+    public static void main (String args[]) {
+        
+        Scanner scan = new Scanner (System.in);
+        String x = scan.nextLine();
+        int len = x.length();
+        int i = 0;
+        String y = " ";
+        for (i = len - 1; i >= 0; i--) {
+            
+            System.out.println(x);
+        
+        }
+    }
+}
+    

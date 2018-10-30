@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=squareCount\ squareSize
+comment0.target=CheckerBoard(int,\ int)
+comment0.text=\r\n\ Creates\ the\ object\ and\ initializes\ my\ instance\ variables\r\n\ @param\ squareCount\ number\ of\ squares\ in\ rows\ and\ columns\r\n\ @param\ squareSize\ the\ size\ of\ the\ squares\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Draws\ the\ squares\r\n\ @param\ g2\ the\ Graphics2D\ variable\r\n
+numComments=2

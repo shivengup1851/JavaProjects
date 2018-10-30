@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=anArray
+comment0.target=MergeSorter(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ merge\ sorter.\r\n\ \ \ \ \ \ @param\ anArray\ the\ array\ to\ sort\r\n
+comment1.params=
+comment1.target=void\ sort()
+comment1.text=\r\n\ \ \ \ \ \ Sorts\ the\ array\ managed\ by\ this\ merge\ sorter.\r\n
+comment2.params=first\ second
+comment2.target=void\ merge(java.lang.String[],\ java.lang.String[])
+comment2.text=\r\n\ \ \ \ \ \ \ Merges\ two\ sorted\ arrays\ into\ the\ array\ managed\ by\ this\r\n\ \ \ \ \ \ \ merge\ sorter.\r\n\ \ \ \ \ \ \ @param\ first\ the\ first\ sorted\ array\r\n\ \ \ \ \ \ \ @param\ second\ the\ second\ sorted\ array\r\n
+numComments=3
